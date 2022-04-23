@@ -21,7 +21,7 @@ Run 'npm i' or 'npm install' to install relevent files.
 
 ## Usage
 
-Visit the live page at: https://vrentadax.github.io/thought-organizer/
+Visit the live page at: https://afternoon-badlands-88512.herokuapp.com/
 
 Or if running locally, run 'npm start' in gitbash to start the server then visit http://localhost:3001/
 
