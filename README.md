@@ -43,6 +43,8 @@ I can be contacted through the information provided in the 'Questions' section.
 
 'npm start' then visit http://localhost:3001/ in the browser.
 
+Or visit the live page at: https://afternoon-badlands-88512.herokuapp.com/
+
 ## Questions
 
 If you have any qestions for me you can reach me here:
